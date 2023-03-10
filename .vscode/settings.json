@@ -1,6 +1,5 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "master"
-    ],
-    "dvc.dvcPath": "dvc"
+    ]
 }
