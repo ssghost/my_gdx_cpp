@@ -1,0 +1,3 @@
+/Users/songshuang/Desktop/my_gdx_cpp/build/CMakeFiles/godot-cpp.dir
+/Users/songshuang/Desktop/my_gdx_cpp/build/CMakeFiles/edit_cache.dir
+/Users/songshuang/Desktop/my_gdx_cpp/build/CMakeFiles/rebuild_cache.dir
